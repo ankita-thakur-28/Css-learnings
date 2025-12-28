@@ -1,0 +1,41 @@
+p {
+    text-align: start;  
+}
+
+body {
+    background-color: #C4B2BC;
+}
+
+#h1 {
+    text-align: center;
+    text-decoration: red underline;
+    font-weight: 400;
+}
+
+#place::before{
+    content: "\01F4CD ";
+    
+}
+
+
+#h2 {
+    font-weight: 900;
+}
+
+#h3 {
+    font-weight: 200;
+}
+
+#one{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#two {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#opening {
+    font-size: 48px;
+    line-height: normal;
+    text-transform: capitalize;
+}

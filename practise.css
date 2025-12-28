@@ -1,0 +1,19 @@
+#box{
+    background-color: yellow;
+}
+
+body{
+    background-color: bisque;
+}
+
+h1, h2, h3{
+    color: blue;
+}
+
+button{
+    color: gray;
+}
+
+button{
+    background-color: burlywood;
+}
